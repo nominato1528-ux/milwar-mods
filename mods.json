@@ -83,15 +83,6 @@
       "required": true
     },
     {
-      "id": "customnpcs",
-      "name": "Custom NPCs",
-      "file": "CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
-      "sha256": "6c28d87b215fc1191488194188ec8a39dd908ae7d2d887b7c9d7d463be0a162c",
-      "size": 10799000,
-      "required": true
-    },
-    {
       "id": "explosionoverhaul",
       "name": "Explosion Overhaul",
       "file": "explosionoverhaul-1.21.1-2.1.0.jar",
