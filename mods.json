@@ -1,1 +1,266 @@
-
+{
+  "version": 1,
+  "mods": [
+    {
+      "id": "air-tactical-arsenal",
+      "name": "Air Tactical Arsenal",
+      "file": "air-tactical-arsenal-1.2.0.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/air-tactical-arsenal-1.2.0.jar",
+      "sha256": "edff9e16f7966ca92d810140246ca9cd552b428e9b0ca05923766157439bb971",
+      "size": 2013265,
+      "required": true
+    },
+    {
+      "id": "architectury",
+      "name": "Architectury",
+      "file": "architectury-13.0.11-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/architectury-13.0.11-neoforge.jar",
+      "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
+      "size": 584704,
+      "required": true
+    },
+    {
+      "id": "atmosfera",
+      "name": "Atmosfera",
+      "file": "atmosfera-1.21.1-NeoForge-1.0.2.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/atmosfera-1.21.1-NeoForge-1.0.2.jar",
+      "sha256": "79cc7d60a081e35314cc3b2211c7fb4f23e47d54af7d4bef64400d758a16461f",
+      "size": 64172851,
+      "required": true
+    },
+    {
+      "id": "connector",
+      "name": "Connector",
+      "file": "connector-2.0.0-beta.17+1.21.1-full.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/connector-2.0.0-beta.17+1.21.1-full.jar",
+      "sha256": "5a4ad10e57b8b1690832d9b77fc488fbe5e7cf41ac5a90d9f569bd78fbea25be",
+      "size": 4571791,
+      "required": true
+    },
+    {
+      "id": "continuity",
+      "name": "Continuity",
+      "file": "continuity-3.0.0+1.21.neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/continuity-3.0.0+1.21.neoforge.jar",
+      "sha256": "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a",
+      "size": 1014784,
+      "required": true
+    },
+    {
+      "id": "copycats",
+      "name": "Copycats",
+      "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
+      "size": 1793065,
+      "required": true
+    },
+    {
+      "id": "create",
+      "name": "Create",
+      "file": "create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "size": 19084083,
+      "required": true
+    },
+    {
+      "id": "createdeco",
+      "name": "Create Deco",
+      "file": "createdeco-2.1.3.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/createdeco-2.1.3.jar",
+      "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
+      "size": 3323330,
+      "required": true
+    },
+    {
+      "id": "curios",
+      "name": "Curios",
+      "file": "curios-neoforge-9.5.1+1.21.1.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/curios-neoforge-9.5.1+1.21.1.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "size": 410624,
+      "required": true
+    },
+    {
+      "id": "customnpcs",
+      "name": "Custom NPCs",
+      "file": "CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
+      "sha256": "6c28d87b215fc1191488194188ec8a39dd908ae7d2d887b7c9d7d463be0a162c",
+      "size": 10799000,
+      "required": true
+    },
+    {
+      "id": "explosionoverhaul",
+      "name": "Explosion Overhaul",
+      "file": "explosionoverhaul-1.21.1-2.1.0.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/explosionoverhaul-1.21.1-2.1.0.jar",
+      "sha256": "e62cf0f4712b9806a81874f25babdd6ec33841c6bd410c0d8c4094233f50d7e0",
+      "size": 193536,
+      "required": true
+    },
+    {
+      "id": "firstaid",
+      "name": "First Aid",
+      "file": "firstaid-1.3.1-hotfix20181682026+neoforge1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/firstaid-1.3.1-hotfix20181682026+neoforge1.21.1.jar",
+      "sha256": "2723a59355d04f1d6d555e2532375e036667f57e87c6e2319793433f7c334c02",
+      "size": 975872,
+      "required": true
+    },
+    {
+      "id": "forgified-fabric-api",
+      "name": "Forgified Fabric API",
+      "file": "forgified-fabric-api-0.116.15+2.3.3+1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/forgified-fabric-api-0.116.15+2.3.3+1.21.1.jar",
+      "sha256": "9dca0eca901d2b9a6b0025ed7a5f2aa2b925b106d853aecfa2f083500f7380ed",
+      "size": 5609881,
+      "required": true
+    },
+    {
+      "id": "geckolib",
+      "name": "GeckoLib",
+      "file": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
+      "size": 630784,
+      "required": true
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "file": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
+      "size": 2537554,
+      "required": true
+    },
+    {
+      "id": "kotlinforforge",
+      "name": "Kotlin for Forge",
+      "file": "kotlinforforge-5.12.0-all.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/kotlinforforge-5.12.0-all.jar",
+      "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
+      "size": 7274496,
+      "required": true
+    },
+    {
+      "id": "mcsp",
+      "name": "MCSP",
+      "file": "MCSP-1.21.1-V1.0.10.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/MCSP-1.21.1-V1.0.10.1.jar",
+      "sha256": "9e2146996cfcbdb7f8f4210d4abd93f3d76b2a45999905ed865e60c7648dd2dd",
+      "size": 5777408,
+      "required": true
+    },
+    {
+      "id": "milwar-1",
+      "name": "MilWar 1.0.0",
+      "file": "milwar-1.0.0.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/milwar-1.0.0.jar",
+      "sha256": "8731652bad88f8041f9deb04a8b66486509b71bf9c0d159d7f35d33151cbec30",
+      "size": 174080,
+      "required": true
+    },
+    {
+      "id": "milwar-2",
+      "name": "MilWar 2.0.0",
+      "file": "milwar-2.0.0.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/milwar-2.0.0.jar",
+      "sha256": "88dd38a42ebb63a38649cf36836fe5e3ddb87ee9f7cc1835e820739a0fe86f68",
+      "size": 7823360,
+      "required": true
+    },
+    {
+      "id": "mma",
+      "name": "MMA",
+      "file": "mma-1.0.5-neoforge-1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/mma-1.0.5-neoforge-1.21.1.jar",
+      "sha256": "a086445a07e6bc3b1764571e7c84fc1f86735502052632902508b5e4019861d8",
+      "size": 1008640,
+      "required": true
+    },
+    {
+      "id": "prone-was-pressed",
+      "name": "Prone Was Pressed",
+      "file": "prone_was_pressed-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/prone_was_pressed-1.0.0-neoforge-1.21.1.jar",
+      "sha256": "8d720b9393556ab31011da70a305e1bd4d2c7ee127577a37a95d6c0a4efa7546",
+      "size": 23859,
+      "required": true
+    },
+    {
+      "id": "ritchiesprojectilelib",
+      "name": "Ritchie's Projectile Lib",
+      "file": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
+      "size": 76390,
+      "required": true
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "file": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266",
+      "size": 1289748,
+      "required": true
+    },
+    {
+      "id": "sound-physics-remastered",
+      "name": "Sound Physics Remastered",
+      "file": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha256": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
+      "size": 202752,
+      "required": true
+    },
+    {
+      "id": "superbwarfare",
+      "name": "Superb Warfare",
+      "file": "superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
+      "sha256": "1a648d19104ef8c485c539edaf4795553c6ee8d5a624fb59aca5d86f4b0297c9",
+      "size": 31666995,
+      "required": true
+    },
+    {
+      "id": "tacz",
+      "name": "Timeless and Classics Guns",
+      "file": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+      "sha256": "58f6ab47c59218bdb10bb9eee1905b6cd27f3bc98d4af13982a6002a99b1d3e7",
+      "size": 57252249,
+      "required": true
+    },
+    {
+      "id": "traversable-leaves",
+      "name": "Traversable Leaves",
+      "file": "traversable_leaves-2.1.0-1.21.1-neo.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/traversable_leaves-2.1.0-1.21.1-neo.jar",
+      "sha256": "fc2737a2323d762d679dc0e901ee53f56452250f76afeb58dd5f3ab921844196",
+      "size": 34713,
+      "required": true
+    },
+    {
+      "id": "xaeroworldmap",
+      "name": "Xaero's World Map",
+      "file": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "sha256": "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa",
+      "size": 1415577,
+      "required": true
+    },
+    {
+      "id": "yacl",
+      "name": "Yet Another Config Lib",
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+      "size": 0,
+      "required": true
+    }
+  ]
+}
