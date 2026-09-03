@@ -4,10 +4,19 @@
     {
       "id": "air-tactical-arsenal",
       "name": "Air Tactical Arsenal",
-      "file": "air-tactical-arsenal-1.2.0.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/air-tactical-arsenal-1.2.0.jar",
-      "sha256": "edff9e16f7966ca92d810140246ca9cd552b428e9b0ca05923766157439bb971",
-      "size": 2013265,
+      "file": "air-tactical-arsenal-0.1.0-dev.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/air-tactical-arsenal-0.1.0-dev.jar",
+      "sha256": "5faf266f81f261a039f85cec67172934c5a028894cf93b8726c8d336320e8922",
+      "size": 3072000,
+      "required": true
+    },
+    {
+      "id": "ambientsounds",
+      "name": "AmbientSounds",
+      "file": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "sha256": "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b",
+      "size": 84724941,
       "required": true
     },
     {
@@ -20,12 +29,21 @@
       "required": true
     },
     {
-      "id": "atmosfera",
-      "name": "Atmosfera",
-      "file": "atmosfera-1.21.1-NeoForge-1.0.2.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/atmosfera-1.21.1-NeoForge-1.0.2.jar",
-      "sha256": "79cc7d60a081e35314cc3b2211c7fb4f23e47d54af7d4bef64400d758a16461f",
-      "size": 64172851,
+      "id": "cloth-config",
+      "name": "Cloth Config",
+      "file": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/cloth-config-15.0.140-neoforge.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1166541,
+      "required": true
+    },
+    {
+      "id": "configs",
+      "name": "Configs",
+      "file": "configs.zip",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/configs.zip",
+      "sha256": "dbdd180c119ae483dab0a396c90c5f41114d0b7a37aceb60803285c4ada9b393",
+      "size": 17705,
       "required": true
     },
     {
@@ -49,10 +67,10 @@
     {
       "id": "copycats",
       "name": "Copycats",
-      "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
-      "size": 1793065,
+      "file": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "sha256": "f0655f3afac3829d3cda7782f2c64e935fdd7667dda137c108dc9055fc1e5c71",
+      "size": 1803550,
       "required": true
     },
     {
@@ -74,6 +92,15 @@
       "required": true
     },
     {
+      "id": "creativecore",
+      "name": "CreativeCore",
+      "file": "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
+      "sha256": "016eaec4445863874b51130a146346f1d862b92f1c4168333fbc219aa1e5d328",
+      "size": 1237319,
+      "required": true
+    },
+    {
       "id": "curios",
       "name": "Curios",
       "file": "curios-neoforge-9.5.1+1.21.1.1.jar",
@@ -85,10 +112,19 @@
     {
       "id": "explosionoverhaul",
       "name": "Explosion Overhaul",
-      "file": "explosionoverhaul-1.21.1-2.1.0.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/explosionoverhaul-1.21.1-2.1.0.jar",
-      "sha256": "e62cf0f4712b9806a81874f25babdd6ec33841c6bd410c0d8c4094233f50d7e0",
-      "size": 193536,
+      "file": "explosionoverhaul-0.2.3.0-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/explosionoverhaul-0.2.3.0-neoforge.jar",
+      "sha256": "f6f8040cf1a177cc771c2d5f32677323b4bb87b41db210877de0192489ed8af1",
+      "size": 100139008,
+      "required": true
+    },
+    {
+      "id": "ferritecore",
+      "name": "FerriteCore",
+      "file": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+      "size": 121856,
       "required": true
     },
     {
@@ -103,9 +139,9 @@
     {
       "id": "forgified-fabric-api",
       "name": "Forgified Fabric API",
-      "file": "forgified-fabric-api-0.116.15+2.3.3+1.21.1.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/forgified-fabric-api-0.116.15+2.3.3+1.21.1.jar",
-      "sha256": "9dca0eca901d2b9a6b0025ed7a5f2aa2b925b106d853aecfa2f083500f7380ed",
+      "file": "forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+      "sha256": "56cb524bcbb2430113f586d4d58ba79bfd66f73684c019aacb528690c3d8d07d",
       "size": 5609881,
       "required": true
     },
@@ -128,6 +164,15 @@
       "required": true
     },
     {
+      "id": "journeymap",
+      "name": "JourneyMap",
+      "file": "journeymap-neoforge-1.21.1-6.0.7.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/journeymap-neoforge-1.21.1-6.0.7.jar",
+      "sha256": "e984149ee3275020661f0d691a7e3256df98eede419f2c2833d27f27d26ad7af",
+      "size": 4299162,
+      "required": true
+    },
+    {
       "id": "kotlinforforge",
       "name": "Kotlin for Forge",
       "file": "kotlinforforge-5.12.0-all.jar",
@@ -143,15 +188,6 @@
       "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/MCSP-1.21.1-V1.0.10.1.jar",
       "sha256": "9e2146996cfcbdb7f8f4210d4abd93f3d76b2a45999905ed865e60c7648dd2dd",
       "size": 5777408,
-      "required": true
-    },
-    {
-      "id": "milwar-1",
-      "name": "MilWar 1.0.0",
-      "file": "milwar-1.0.0.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/milwar-1.0.0.jar",
-      "sha256": "c375260cfcc24c0eafd98133ddcb6cf45a64788ab548b32d3fe2387ae302c614",
-      "size": 174080,
       "required": true
     },
     {
@@ -191,30 +227,30 @@
       "required": true
     },
     {
-      "id": "sodium",
-      "name": "Sodium",
-      "file": "sodium-neoforge-0.8.12+mc1.21.1.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/sodium-neoforge-0.8.12+mc1.21.1.jar",
-      "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266",
-      "size": 1289748,
+      "id": "sodium-extra",
+      "name": "Sodium Extra",
+      "file": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+      "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186",
+      "size": 464896,
       "required": true
     },
     {
-      "id": "sound-physics-remastered",
-      "name": "Sound Physics Remastered",
-      "file": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-      "sha256": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
-      "size": 202752,
+      "id": "sodium",
+      "name": "Sodium",
+      "file": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
+      "size": 1289748,
       "required": true
     },
     {
       "id": "superbwarfare",
       "name": "Superb Warfare",
-      "file": "superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "sha256": "1a648d19104ef8c485c539edaf4795553c6ee8d5a624fb59aca5d86f4b0297c9",
-      "size": 31666995,
+      "file": "superbwarfare-0.8.9.1-final-mc1.21.1-5b92ebe1.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/superbwarfare-0.8.9.1-final-mc1.21.1-5b92ebe1.jar",
+      "sha256": "d6deeeac1f17c087b0561bd224aabc8c6d450d98cbb2a273306300a30c7e0ecf",
+      "size": 41628467,
       "required": true
     },
     {
@@ -236,12 +272,12 @@
       "required": true
     },
     {
-      "id": "xaeroworldmap",
-      "name": "Xaero's World Map",
-      "file": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-      "sha256": "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa",
-      "size": 1415577,
+      "id": "worldedit",
+      "name": "WorldEdit",
+      "file": "worldedit-mod-7.3.8.jar",
+      "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/worldedit-mod-7.3.8.jar",
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "size": 6212813,
       "required": true
     },
     {
@@ -250,7 +286,7 @@
       "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "url": "https://github.com/nominato1528-ux/milwar-mods/releases/download/v1.0/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
-      "size": 0,
+      "size": 1121976,
       "required": true
     }
   ]
